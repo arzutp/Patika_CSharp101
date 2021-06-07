@@ -1,0 +1,16 @@
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\bin\Debug\net5.0\KonsolProgramlama.exe
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\bin\Debug\net5.0\KonsolProgramlama.deps.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\bin\Debug\net5.0\KonsolProgramlama.runtimeconfig.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\bin\Debug\net5.0\KonsolProgramlama.runtimeconfig.dev.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\bin\Debug\net5.0\KonsolProgramlama.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\bin\Debug\net5.0\ref\KonsolProgramlama.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\bin\Debug\net5.0\KonsolProgramlama.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\obj\Debug\net5.0\KonsolProgramlama.csproj.AssemblyReference.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\obj\Debug\net5.0\KonsolProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\obj\Debug\net5.0\KonsolProgramlama.AssemblyInfoInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\obj\Debug\net5.0\KonsolProgramlama.AssemblyInfo.cs
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\obj\Debug\net5.0\KonsolProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\obj\Debug\net5.0\KonsolProgramlama.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\obj\Debug\net5.0\ref\KonsolProgramlama.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\obj\Debug\net5.0\KonsolProgramlama.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika\C#101Patikası\KonsolProgramlama\obj\Debug\net5.0\KonsolProgramlama.genruntimeconfig.cache
