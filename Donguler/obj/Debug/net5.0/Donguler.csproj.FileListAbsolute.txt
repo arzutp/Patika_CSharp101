@@ -1,0 +1,16 @@
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\bin\Debug\net5.0\Donguler.exe
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\bin\Debug\net5.0\Donguler.deps.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\bin\Debug\net5.0\Donguler.runtimeconfig.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\bin\Debug\net5.0\Donguler.runtimeconfig.dev.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\bin\Debug\net5.0\Donguler.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\bin\Debug\net5.0\ref\Donguler.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\bin\Debug\net5.0\Donguler.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\obj\Debug\net5.0\Donguler.csproj.AssemblyReference.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\obj\Debug\net5.0\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\obj\Debug\net5.0\Donguler.AssemblyInfoInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\obj\Debug\net5.0\Donguler.AssemblyInfo.cs
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\obj\Debug\net5.0\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\obj\Debug\net5.0\Donguler.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\obj\Debug\net5.0\ref\Donguler.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\obj\Debug\net5.0\Donguler.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Donguler\obj\Debug\net5.0\Donguler.genruntimeconfig.cache
