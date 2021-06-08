@@ -1,0 +1,16 @@
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\bin\Debug\net5.0\KararYapilari2.exe
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\bin\Debug\net5.0\KararYapilari2.deps.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\bin\Debug\net5.0\KararYapilari2.runtimeconfig.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\bin\Debug\net5.0\KararYapilari2.runtimeconfig.dev.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\bin\Debug\net5.0\KararYapilari2.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\bin\Debug\net5.0\ref\KararYapilari2.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\bin\Debug\net5.0\KararYapilari2.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\obj\Debug\net5.0\KararYapilari2.csproj.AssemblyReference.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\obj\Debug\net5.0\KararYapilari2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\obj\Debug\net5.0\KararYapilari2.AssemblyInfoInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\obj\Debug\net5.0\KararYapilari2.AssemblyInfo.cs
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\obj\Debug\net5.0\KararYapilari2.csproj.CoreCompileInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\obj\Debug\net5.0\KararYapilari2.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\obj\Debug\net5.0\ref\KararYapilari2.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\obj\Debug\net5.0\KararYapilari2.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\KararYapilari2\obj\Debug\net5.0\KararYapilari2.genruntimeconfig.cache
