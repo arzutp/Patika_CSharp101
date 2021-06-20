@@ -1,0 +1,16 @@
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\bin\Debug\net5.0\Odev1.exe
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\bin\Debug\net5.0\Odev1.deps.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\bin\Debug\net5.0\Odev1.runtimeconfig.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\bin\Debug\net5.0\Odev1.runtimeconfig.dev.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\bin\Debug\net5.0\Odev1.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\bin\Debug\net5.0\ref\Odev1.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\bin\Debug\net5.0\Odev1.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\obj\Debug\net5.0\Odev1.csproj.AssemblyReference.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\obj\Debug\net5.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\obj\Debug\net5.0\Odev1.AssemblyInfoInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\obj\Debug\net5.0\Odev1.AssemblyInfo.cs
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\obj\Debug\net5.0\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\obj\Debug\net5.0\Odev1.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\obj\Debug\net5.0\ref\Odev1.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\obj\Debug\net5.0\Odev1.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Odev1\obj\Debug\net5.0\Odev1.genruntimeconfig.cache
