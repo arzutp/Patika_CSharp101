@@ -1,0 +1,16 @@
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\bin\Debug\net5.0\GenericKoleksiyonlarVeList.exe
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\bin\Debug\net5.0\GenericKoleksiyonlarVeList.deps.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\bin\Debug\net5.0\GenericKoleksiyonlarVeList.runtimeconfig.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\bin\Debug\net5.0\GenericKoleksiyonlarVeList.runtimeconfig.dev.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\bin\Debug\net5.0\GenericKoleksiyonlarVeList.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\bin\Debug\net5.0\ref\GenericKoleksiyonlarVeList.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\bin\Debug\net5.0\GenericKoleksiyonlarVeList.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\obj\Debug\net5.0\GenericKoleksiyonlarVeList.csproj.AssemblyReference.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\obj\Debug\net5.0\GenericKoleksiyonlarVeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\obj\Debug\net5.0\GenericKoleksiyonlarVeList.AssemblyInfoInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\obj\Debug\net5.0\GenericKoleksiyonlarVeList.AssemblyInfo.cs
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\obj\Debug\net5.0\GenericKoleksiyonlarVeList.csproj.CoreCompileInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\obj\Debug\net5.0\GenericKoleksiyonlarVeList.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\obj\Debug\net5.0\ref\GenericKoleksiyonlarVeList.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\obj\Debug\net5.0\GenericKoleksiyonlarVeList.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\GenericKoleksiyonlarVeList\obj\Debug\net5.0\GenericKoleksiyonlarVeList.genruntimeconfig.cache
