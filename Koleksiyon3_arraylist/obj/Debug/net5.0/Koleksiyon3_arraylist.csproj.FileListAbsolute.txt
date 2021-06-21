@@ -1,0 +1,16 @@
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\bin\Debug\net5.0\Koleksiyon3_arraylist.exe
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\bin\Debug\net5.0\Koleksiyon3_arraylist.deps.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\bin\Debug\net5.0\Koleksiyon3_arraylist.runtimeconfig.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\bin\Debug\net5.0\Koleksiyon3_arraylist.runtimeconfig.dev.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\bin\Debug\net5.0\Koleksiyon3_arraylist.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\bin\Debug\net5.0\ref\Koleksiyon3_arraylist.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\bin\Debug\net5.0\Koleksiyon3_arraylist.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\obj\Debug\net5.0\Koleksiyon3_arraylist.csproj.AssemblyReference.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\obj\Debug\net5.0\Koleksiyon3_arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\obj\Debug\net5.0\Koleksiyon3_arraylist.AssemblyInfoInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\obj\Debug\net5.0\Koleksiyon3_arraylist.AssemblyInfo.cs
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\obj\Debug\net5.0\Koleksiyon3_arraylist.csproj.CoreCompileInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\obj\Debug\net5.0\Koleksiyon3_arraylist.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\obj\Debug\net5.0\ref\Koleksiyon3_arraylist.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\obj\Debug\net5.0\Koleksiyon3_arraylist.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Koleksiyon3_arraylist\obj\Debug\net5.0\Koleksiyon3_arraylist.genruntimeconfig.cache
