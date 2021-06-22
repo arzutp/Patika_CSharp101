@@ -1,0 +1,16 @@
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\bin\Debug\net5.0\EnumKullanimi.exe
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\bin\Debug\net5.0\EnumKullanimi.deps.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\bin\Debug\net5.0\EnumKullanimi.runtimeconfig.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\bin\Debug\net5.0\EnumKullanimi.runtimeconfig.dev.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\bin\Debug\net5.0\EnumKullanimi.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\bin\Debug\net5.0\ref\EnumKullanimi.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\bin\Debug\net5.0\EnumKullanimi.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\obj\Debug\net5.0\EnumKullanimi.csproj.AssemblyReference.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\obj\Debug\net5.0\EnumKullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\obj\Debug\net5.0\EnumKullanimi.AssemblyInfoInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\obj\Debug\net5.0\EnumKullanimi.AssemblyInfo.cs
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\obj\Debug\net5.0\EnumKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\obj\Debug\net5.0\EnumKullanimi.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\obj\Debug\net5.0\ref\EnumKullanimi.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\obj\Debug\net5.0\EnumKullanimi.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\EnumKullanimi\obj\Debug\net5.0\EnumKullanimi.genruntimeconfig.cache
