@@ -1,0 +1,16 @@
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.exe
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.deps.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.runtimeconfig.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.runtimeconfig.dev.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\bin\Debug\net5.0\ref\interfaceOrnek.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\bin\Debug\net5.0\interfaceOrnek.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.csproj.AssemblyReference.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.AssemblyInfoInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.AssemblyInfo.cs
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.csproj.CoreCompileInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\obj\Debug\net5.0\ref\interfaceOrnek.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\OOP\interfaceOrnek\obj\Debug\net5.0\interfaceOrnek.genruntimeconfig.cache
