@@ -1,0 +1,16 @@
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\bin\Debug\net5.0\StructYapilar.exe
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\bin\Debug\net5.0\StructYapilar.deps.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\bin\Debug\net5.0\StructYapilar.runtimeconfig.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\bin\Debug\net5.0\StructYapilar.runtimeconfig.dev.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\bin\Debug\net5.0\StructYapilar.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\bin\Debug\net5.0\ref\StructYapilar.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\bin\Debug\net5.0\StructYapilar.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\obj\Debug\net5.0\StructYapilar.csproj.AssemblyReference.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\obj\Debug\net5.0\StructYapilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\obj\Debug\net5.0\StructYapilar.AssemblyInfoInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\obj\Debug\net5.0\StructYapilar.AssemblyInfo.cs
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\obj\Debug\net5.0\StructYapilar.csproj.CoreCompileInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\obj\Debug\net5.0\StructYapilar.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\obj\Debug\net5.0\ref\StructYapilar.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\obj\Debug\net5.0\StructYapilar.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StructYapilar\obj\Debug\net5.0\StructYapilar.genruntimeconfig.cache

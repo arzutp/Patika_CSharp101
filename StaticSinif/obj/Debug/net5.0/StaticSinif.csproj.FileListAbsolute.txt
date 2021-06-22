@@ -1,0 +1,16 @@
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\bin\Debug\net5.0\StaticSinif.exe
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\bin\Debug\net5.0\StaticSinif.deps.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\bin\Debug\net5.0\StaticSinif.runtimeconfig.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\bin\Debug\net5.0\StaticSinif.runtimeconfig.dev.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\bin\Debug\net5.0\StaticSinif.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\bin\Debug\net5.0\ref\StaticSinif.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\bin\Debug\net5.0\StaticSinif.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\obj\Debug\net5.0\StaticSinif.csproj.AssemblyReference.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\obj\Debug\net5.0\StaticSinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\obj\Debug\net5.0\StaticSinif.AssemblyInfoInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\obj\Debug\net5.0\StaticSinif.AssemblyInfo.cs
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\obj\Debug\net5.0\StaticSinif.csproj.CoreCompileInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\obj\Debug\net5.0\StaticSinif.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\obj\Debug\net5.0\ref\StaticSinif.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\obj\Debug\net5.0\StaticSinif.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\StaticSinif\obj\Debug\net5.0\StaticSinif.genruntimeconfig.cache

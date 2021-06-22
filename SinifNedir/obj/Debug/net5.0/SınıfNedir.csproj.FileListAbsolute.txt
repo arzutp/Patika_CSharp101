@@ -1,0 +1,16 @@
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\bin\Debug\net5.0\SınıfNedir.exe
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\bin\Debug\net5.0\SınıfNedir.deps.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\bin\Debug\net5.0\SınıfNedir.runtimeconfig.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\bin\Debug\net5.0\SınıfNedir.runtimeconfig.dev.json
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\bin\Debug\net5.0\SınıfNedir.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\bin\Debug\net5.0\ref\SınıfNedir.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\bin\Debug\net5.0\SınıfNedir.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\obj\Debug\net5.0\SınıfNedir.csproj.AssemblyReference.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\obj\Debug\net5.0\SınıfNedir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\obj\Debug\net5.0\SınıfNedir.AssemblyInfoInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\obj\Debug\net5.0\SınıfNedir.AssemblyInfo.cs
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\obj\Debug\net5.0\SınıfNedir.csproj.CoreCompileInputs.cache
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\obj\Debug\net5.0\SınıfNedir.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\obj\Debug\net5.0\ref\SınıfNedir.dll
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\obj\Debug\net5.0\SınıfNedir.pdb
+C:\Users\arzut\OneDrive\Masaüstü\Patika_CSharp101\Sınıflar\SınıfNedir\obj\Debug\net5.0\SınıfNedir.genruntimeconfig.cache
